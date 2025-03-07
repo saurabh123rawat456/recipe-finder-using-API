@@ -40,3 +40,9 @@ This app is built with love and modern technology:
 🍝 **Cuisine Filters**: Filter recipes by cuisines like Italian, Indian, Mexican, and more.  
 📋 **Detailed Recipe Information**: View step-by-step instructions, ingredient lists, and cooking times.  
 ⚡ **Fast & Responsive**: Optimized for all devices, ensuring a seamless experience everywhere. 
+
+---
+
+## 🎥 Live Demo  
+
+👉 [**Try it Live!**](https://saurabh123rawat456.github.io/recipe-finder-using-API/)
