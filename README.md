@@ -17,7 +17,9 @@ Life is too short to eat the same thing every day. With Recipe Finder, you can:
 
 ## 📸✨ **Screenshots**
 
+Screenshot_1.png
 
+Screenshot_2.png
 
 ---
 
